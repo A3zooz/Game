@@ -6,7 +6,7 @@ import units.Unit;
 
 public class ArcheryRange extends MilitaryBuilding {
 
-	public ArcheryRange() {
+	 public ArcheryRange() {
 		super(1500, 800,400);
 		super.name="ArcheryRange";
 		

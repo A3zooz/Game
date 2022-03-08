@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 import javax.swing.JOptionPane;
 
-import buildings.EconomicBuilding;
+ import buildings.EconomicBuilding;
 import buildings.Farm;
 import buildings.Market;
 import buildings.MilitaryBuilding;
